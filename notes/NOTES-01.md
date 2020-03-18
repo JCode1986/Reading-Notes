@@ -1,6 +1,6 @@
 # Readme's and Unit Testing
 
-## Thoughts
+## Notes
 * Having a well a documented README will help you understand what you are doing. Not just yourself, but others as well.
 * Having a TDD approach will improve code, and catching errors or mistakes will be easier.
 * Keep tests short and visible. So when a test fails, you want to understand what went wrong.  
